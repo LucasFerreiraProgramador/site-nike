@@ -3,7 +3,7 @@
 Este projeto é uma landing page inspirada na Nike, desenvolvida para fins de estudo e prática de HTML, CSS e JavaScript.
 
 ## Deploy
-- Acesse o site online: [Site Nike Deploy](colocar o site aqui depois)
+- Acesse o site online: https://lucasferreiraprogramador.github.io/site-nike/
 
 ## Funcionalidades
 - Troca de cor do fundo e do botão
